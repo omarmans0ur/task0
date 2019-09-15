@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+body 
+{
+ 
+}
+main {
+    background-color: white;
+    margin: 100px;
+}
+img {
+    width: 150px;
+}
+ul li {
+    display: inline-block;
+    margin: 2px;
+}
+a{
+    color: black;
+}
+section {
+    color: white;
+width: 50%;
+margin-left: 30%;
+background: rgba(104, 9, 9, 0.877);
+}
+div{
+background: url('linear-gradient-orange-black-1920x1080-c2-ff4500-000000-a-270-f-14.svg')
+}
